@@ -3,20 +3,22 @@
 ### <제목>
 
 ```
-# 제목
-## 제목
-### 제목
-#### 제목
-##### 제목
-###### 제목
+# 헤더1
+## 헤더2
+### 헤더3
+#### 헤더4
+##### 헤더5
+###### 헤더6
 ```
-# 제목
-## 제목
-### 제목
-#### 제목
-##### 제목
-###### 제목
+# 헤더1
+## 헤더2
+### 헤더3
+#### 헤더4
+##### 헤더5
+###### 헤더6
+<br>
 6가지의 헤더 사용 가능
+
 ***
 ### <강조>
 
@@ -25,8 +27,8 @@
 볼드체 **문장** 혹은 __문장__
 밑줄 <u>문장</u>
 ```
-이텔릭체 *문장* 혹은 _문장_
-볼드체 **문장** 혹은 __문장__
+이텔릭체 *문장* 혹은 _문장_ <br>
+볼드체 **문장** 혹은 __문장__<br>
 밑줄 <u>문장</u>
 ***
 ### <리스트>
@@ -48,16 +50,16 @@
 ***
 ### <링크>
 ```
-[Google](https://www.google.com).   
-Google : https://www.google.com.   
-Naver : <https://www.naver.com>.  
+[Google](https://www.google.com)<br>  
+Google : https://www.google.com<br>  
+Naver : <https://www.naver.com>   
 [Github][git]
 
 [git] : https://www.github.com
 ```
-[Google](https://www.google.com)
-Google : https://www.google.com
-Naver : <https://www.naver.com>
+[Google](https://www.google.com)<br>
+Google : https://www.google.com<br>
+Naver : <https://www.naver.com>  
 [Github][git]
 
 [git]:https://www.github.com
@@ -69,8 +71,8 @@ Naver : <https://www.naver.com>
 다시만나요
 ```
 안녕하세요<br>감사해요<br>잘있어요
-다시만나요
-(띄어쓰기 3번이상 이나 `<br>` 적용)
+<br>다시만나요
+(띄어쓰기 2번이상 이나 `<br>` 적용)
 ***
 ### <이미지>
 ```
@@ -83,7 +85,7 @@ Naver : <https://www.naver.com>
 ```
 [![git logo](https://mblogthumb-phinf.pstatic.net/MjAxOTEyMTVfMjc4/MDAxNTc2NDE0MTAwNjg1.cp_9N4gi8GOe7idQjx6pC1LUhK9EqpIs9uArKqZq6iUg.1vF6bTjG3vJW4mb_WagZ5gh0gfwjoo2bznBTEs-tyXkg.JPEG.nilsine11202/github.jpg?type=w800)](https://www.github.com)
 ```
-이미지 마크다운`![설명](이미지 링크)`을 `[이미지 마크다운](링크)`으로 묶어줍니다.
+이미지 마크다운`![설명](이미지 링크)`을 `[이미지 마크다운](링크)`으로 묶어줍니다.<br><br>
 [![git logo](https://mblogthumb-phinf.pstatic.net/MjAxOTEyMTVfMjc4/MDAxNTc2NDE0MTAwNjg1.cp_9N4gi8GOe7idQjx6pC1LUhK9EqpIs9uArKqZq6iUg.1vF6bTjG3vJW4mb_WagZ5gh0gfwjoo2bznBTEs-tyXkg.JPEG.nilsine11202/github.jpg?type=w800)](https://www.github.com)
 <br>사진을 누르면 github로 이동합니다.
 ***
