@@ -50,9 +50,9 @@
 ***
 ###<링크>
 ```
-[Google](https://www.google.com)
-Google : https://www.google.com
-Naver : <https://www.naver.com>
+[Google](https://www.google.com).   
+Google : https://www.google.com.   
+Naver : <https://www.naver.com>.  
 [Github][git]
 
 [git] : https://www.github.com
