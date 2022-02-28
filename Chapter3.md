@@ -123,8 +123,7 @@ name_p는 포인터 변수를 할당하지 않았기 때문에 쓰레기 값이 
 - <stdlib.h> 헤더를 포함하여 사용한다.
 
 - Calloc
-    - 함수 원형 : `void* calloc (size_t N, el_size);`
-    <br>
+    - 함수 원형 : `void* calloc (size_t N, el_size);`<br>
     <u>**0으로 초기화**</u>
 
 - Malloc
