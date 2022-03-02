@@ -54,3 +54,17 @@ Chapter4 : Pointer 3차시
     - [restrict](#restrict)<br>
 1. [포인터 함수](#함수-포인터)<br>
 </div></details>
+<details><summary>
+Chapter5 : 사용자 정의형 - 구조체
+</summary><div markdown="1">
+
+1. [구조체](#구조체)<br>
+    - [구조체 태그가 없는 경우](#구조체-태그가-없는-경우)<br>
+    - [typedef](#typedef)<br>
+    - [구조체 초기화](#구조체-초기화)<br>
+    - [복합 리터럴](#복합-리터럴)<br>
+    - [구조체의 구조체](#구조체의-구조체)<br>
+    - [구조체 포인터](#구조체-포인터)
+    - [멤버 접근 연산자](#멤버-접근-연산자)<br>
+    - [구조체와 함수](#구조체와-함수)
+    </div></details>
