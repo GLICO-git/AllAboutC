@@ -119,3 +119,41 @@ Chapter8 : 전처리기
     - [#if, #elif, #else, #endif](#if-elif-else-endif)
   - [defined](#defined)
   </div></details>
+  <details><summary>
+  Chapter9 : 입력과 출력
+  </summary><div markdown="1">
+
+1. [getchar()와 putchar()](#getchar()와-putchar())
+    - [getchar()](#getchar())
+    - [putchar()](#putchar())
+2. [표준입출력 장치](#표준입출력-장치))
+    - [입출력 재지정(<, >)](#입출력-재지정(<,\>))
+    - [파이프(|)](#파이프(|))
+    - [printf()](#printf())
+      - [플래그](#플래그)
+      - [폭](#폭)
+      - [정밀도](#정밀도)
+      - [형변환자](#형변환자)
+    - [scanf()](##scanf())
+      - [*](#*)
+      - [폭](#폭)
+      - [변환문자](#변환문자)
+      - [참고](#참고)
+    - [sprintf()와 sscanf()](#sprintf()와-sscanf())
+      - [sprintf(),sscanf()의 특징](#sprintf(),sscanf()의-특징) 
+3. [파일입출력](#파일입출력)
+   - [fopen()](#fopen())
+     - [모드](#모드)
+   - [fclose()](#fclose())
+   - [getc()와 putc()](#getc()와-putc())
+   - [fprintf()와 fscanf()](#fprintf()와-fscanf())
+4. [파일의 임의의 위치 접근](#파일의-임의의-위치-접근)
+   - [ftell()](#ftell())
+   - [fseek()](#fseek())
+     - [place](#place)
+   - [rewind()](#rewind())
+5. [이진 파일](#이진-파일)
+   - [fwrite()](#fwrite())
+   - [fread()](#fread())
+
+  </div></details>
