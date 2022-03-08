@@ -46,7 +46,7 @@ Chapter4 : Pointer 3차시
 
 1. [포인터 배열](#포인터-배열)<br>
 1. [main()함수의 인자](#main()함수의-인자)<br>
-1. [형 한정자](#형-한정자)<br>
+1. [형 한정자](#Chapter4/형-한정자)<br>
     - [const](#const)<br>
         - [const 포인트 유의점](#const-변수를-포인트-할-때,-유의점)<br>
         - [상수 포인터](#상수-포인터)<br>
@@ -119,6 +119,7 @@ Chapter8 : 전처리기
     - [#if, #elif, #else, #endif](#if-elif-else-endif)
   - [defined](#defined)
   </div></details>
+
   <details><summary>
   Chapter9 : 입력과 출력
   </summary><div markdown="1">
